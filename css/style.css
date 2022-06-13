@@ -1,0 +1,68 @@
+body {
+    background-color: #222831;
+}
+
+p {
+    text-align: center;
+    color:#EEEEEE ;
+    font-size: medium;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+h1 {
+    
+    text-align: center;
+    color: #EEEEEE;
+    font-family: 'Archivo Black', sans-serif;
+}
+h2 {
+    text-align: center;
+    color: #EEEEEE;
+    font-family: 'Archivo Black', sans-serif;
+    
+}
+
+/**** UL ortalama ****/
+.ortala {
+    text-align: center;
+}
+
+ol li {
+    list-style-type: none;
+    font-size: 20px;
+    font-family:'Archivo Black', sans-serif;
+    color: #00ADB5;
+    
+}
+
+
+
+ul li{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+/*********************/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #00ADB5;
+}
+li a {
+    font-size: 20px;
+    display: block;
+    color: #EEEEEE;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #393E46;
+}
+
+.active {
+    background-color: #393E46;
+}
